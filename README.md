@@ -11,9 +11,9 @@
 ### Проекты
 
 - **Telegram gambling platform (10k+ MAU)**
-  → showcase repository: _coming soon_
+  → demo repository: _coming soon_
 - **Event-driven Telegram CRM platform**
-  → showcase repository: _coming soon_
+  → demo repository: _coming soon_
 
 ### Контакты
 
