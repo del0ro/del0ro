@@ -11,10 +11,8 @@
 
 ### Проекты
 
-- **Telegram gambling platform (10k+ MAU)**
-  → [demo repository](https://github.com/del0ro/demo-game-platform)
 - **Event-driven Telegram CRM platform**
-  → demo repository: _coming soon_
+  → demo repository: _soon_
 
 ### Контакты
 
